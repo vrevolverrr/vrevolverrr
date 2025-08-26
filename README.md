@@ -2,7 +2,6 @@
 
 <h2>About Me</h2>
 <img src="https://raw.githubusercontent.com/vrevolverrr/vrevolverrr/refs/heads/main/assets/idle-2-resized.gif?raw=true" width=120 height=120><br>
-
 Hi, I'm <b>Bryan Soong Jun Shen</b>, a full-stack developer based in Singapore specializing in Flutter, Node.js, and blockchain development. I'm the <b>technical co-founder</b> of [SoPets](https://sopetsnft.com/) of SoPets, an <b>NTU incubated</b> pre-seed social gaming startup where players breed, collect, and care for cute and unique digital pets through <i>real world social interactions</i>. 
 
 Here are some notable achievements from [SoPets](https://sopetsnft.com/) under my technical leadership:
