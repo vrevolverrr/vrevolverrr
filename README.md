@@ -11,6 +11,4 @@ Here are some notable achievements from [SoPets](https://sopetsnft.com/) under m
 - Won <b>1st Place</b> under the <b>Web 3 Track</b> in the 6 month long [Port63 Innovation Challenge](https://www.ntu.edu.sg/innovates/news-events/port63#Content_C443_Col02).
 - First official closed beta launch targeted for <b>Q4 2025</b>.
 
-Furthermore, I was the lead game desginer and engineer behind the IIC Cashflow Game, a comprehensive digital financial literacy board game designed to teach money management, investment strategies, and entrepreneurship within Singapore's economic landscape that served over 600 participants across Singapore.
-
-The project is now public at this [repository](https://github.com/vrevolverrr/alpha), feel free to check it out!
+Furthermore, I was the lead game desginer and engineer behind the <b>IIC Cashflow Game</b>, a comprehensive digital financial literacy board game that served over 600 participants across Singapore. The project is now public at this [repository](https://github.com/vrevolverrr/alpha), feel free to check it out!
