@@ -15,7 +15,7 @@ Hi, I'm <b>Bryan Soong Jun Shen</b>, a final-year Mathematics and Computer Scien
 <h3>Before</h3>
 
 - [**SoPets**](https://github.com/SoPets/CCDS-SEP-Project-Updates), co-founder (2024–25): led the team from concept to public release of an offline-first Flutter desktop-pet app with native C++/Swift overlays, and grew an early community of 115 members. Won S$40k in grants and prizes from the NTU CCDS Student Entrepreneurship Programme, NTUitive MDT Fund and NTU Port63 Challenge 2025 (1st place, Web3 Track)
-- [**IIC Cashflow Game**](https://github.com/vrevolverrr/alpha): led a 5-person team building a Flutter game played by ~600 people in the National Cashflow Competition
+- [**IIC Cashflow Game**](https://github.com/vrevolverrr/alpha): a Flutter board game for the [National Cashflow Competition 2025](https://blogs.ntu.edu.sg/sao-ntuiic/national-cashflow-competition-2025/), played by 448 attendees from 30 schools (573 people in total with facilitators and beneficiaries)
 - **Other stuff** I've built: [peepal](https://github.com/vrevolverrr/peepal) (toilet finder for Singapore), [mysejahtera](https://github.com/vrevolverrr/mysejahtera) (unofficial MySejahtera concept in Flutter), and [chrome-discord-presence](https://github.com/vrevolverrr/chrome-discord-presence) (Discord Rich Presence for Chrome, very old but still the most starred)
 
 Open to internships from December 2026 and full-time roles from July 2027 in LLM agents or inference. [LinkedIn](https://www.linkedin.com/in/bryansoong/)
