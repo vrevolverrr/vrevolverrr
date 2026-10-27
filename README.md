@@ -8,7 +8,7 @@ Hi, I'm <b>Bryan Soong Jun Shen</b>, a final-year Mathematics and Computer Scien
 <h3>Now</h3>
 
 - FYP: a discrete-event simulator for online, prefix-aware request scheduling in LLM inference with KV-cache reuse. It models a vLLM-style server (continuous batching, prefix caching, preemption) to compare scheduling policies (FCFS, longest prefix match, shortest prompt first, k-LPM) and study starvation under memory pressure
-- Building [Clew](https://github.com/vrevolverrr/clew), an Obsidian plugin that puts a Claude Code or Codex chat beside your notes
+- Building [Clew](https://github.com/vrevolverrr/clew), an Obsidian plugin that puts a Claude Code or Codex chat beside your notes and answers with plots, step-by-step figures and quizzes
 - Learning transformers from first principles in [microgpt-go](https://github.com/vrevolverrr/microgpt-go)
 - Contributing to [prismantis](https://github.com/NahumLitvin/prismantis), a Claude Code mod: LaTeX math rendering, table layout
 
